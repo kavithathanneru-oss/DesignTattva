@@ -1,0 +1,38 @@
+# Build results
+[Dd]ebug/  
+[Rr]elease/  
+[Bb]in/  
+[Oo]bj/  
+
+# Visual Studio files
+.vs/  
+*.suo  
+*.user  
+*.userosscache  
+*.sln.docstates  
+
+# Rider files
+.idea/  
+
+# Visual Studio Code files
+.vscode/  
+
+# Miscellaneous files
+*.dbmdl  
+*.dbproj.schemaversion  
+*.jfm  
+*.pdb  
+*.svg  
+*.vspscc  
+*.vssscc  
+*.publish.xml  
+*.sql  
+*.db  
+*.hbm.xml  
+*.log  
+
+# Azure Web App publish settings
+*.publishsettings  
+
+# Local History for Visual Studio
+.localhistory/
